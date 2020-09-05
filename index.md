@@ -6,7 +6,6 @@
 
 [Identify Risk Factors of Type 2 Diabetes](https://github.com/kevin-sharp24/Capstone-1)
 
----
 [Character Recognition in Natural Images](https://github.com/kevin-sharp24/Capstone-2)
 
 
