@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Springboard Capstone Projects
 
 [Identify Risk Factors of Type 2 Diabetes](https://github.com/kevin-sharp24/Capstone-1)
 
